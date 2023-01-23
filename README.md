@@ -9,4 +9,4 @@ Web scraper for the URL "https://www.giustizia-amministrativa.it/web/guest/dcsnp
 
 NOTE: 
 1) "log.py" and "sentence.py" are classes useful to the scripts "01_scraper.py";
-2) Upon first execution, the script '01_scraper.py' creates the directory 'sentences' where the list of sentences and their texts will be downloaded.
+2) Upon first execution, the script "01_scraper.py" creates the directory "sentences" where the list of sentences and their texts will be downloaded.
