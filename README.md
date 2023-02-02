@@ -2,7 +2,7 @@
 
 Web scraper for the Italian Administrative Justice (IAJ). 
 
-URL: "https://www.giustizia-amministrativa.it/web/guest/dcsnprr"
+URL: https://www.giustizia-amministrativa.it/web/guest/dcsnprr
 
 1) Execute "01_scraper.py" to generate the list (index) of the sentences to be downloaded (index file in csv format saved in "sentences" folder); define in "01_scraper.py" the years needed to download.
 
